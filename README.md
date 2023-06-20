@@ -6,7 +6,7 @@
 ## My name is Nicolas Josino, and I'm a software engineer based in Brazil
 
 ### 💼 Currently, I am working as a front-end developer at Instituto Atlântico, an inovation company from Fortaleza - CE;
-### 📘 I am also an Information Systems student at the Sete de Setembro University.
+### 📘 I am also an Information Systems student at Sete de Setembro University.
 
 ### My main programming languages are <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> and <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">. However, I am always eager to learn new things!
 
