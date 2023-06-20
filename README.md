@@ -5,10 +5,12 @@
 
 ## My name is Nicolas Josino, and I'm a software engineer based in Brazil
 
-### 💼 Currently, I am working as a front-end developer at Instituto Atlântico, an inovation company from Fortaleza - CE;
-### 📘 I am also an Information Systems student at Sete de Setembro University.
+### 💼 Currently, I am working as a front-end developer at [Instituto Atlântico](https://www.atlantico.com.br/en/?en=1), an innovation company from Fortaleza - CE;
+### 📘 I am also an Information Systems student at [Uni7](https://www.uni7.edu.br/) college.
 
-### My main programming languages are <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> and <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">. However, I am always eager to learn new things!
+### 💻 My main programming languages are <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> and <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">. However, I am always eager to learn new things!
+
+##
 
 ### The technologies that I am most familiar with are...
 
@@ -29,12 +31,18 @@
 
   ### Regarding version control and CI/CD:
   <div style="display: inline_block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
   </div><br>
 
   ### At the moment I am interested in learning:
   <div style="display: inline_block">
     <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />
     <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" />
+    <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
   </div><br>
+
+##
+
+  ### Let's connect!
+  <a href="https://www.linkedin.com/in/nicolasjosino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
