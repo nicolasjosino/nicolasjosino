@@ -5,7 +5,7 @@
 
 ## My name is Nicolas Josino, and I'm a software engineer based in Brazil
 
-### 💼 Currently, I am working as a front-end developer at [Instituto Atlântico](https://www.atlantico.com.br/en/?en=1), an innovation company from Fortaleza - CE;
+### 💼 Currently, I am working as a software developer at [Instituto Atlântico](https://www.atlantico.com.br/en/?en=1), an innovation company from Fortaleza - CE;
 ### 📘 I am also an Information Systems student at [Uni7](https://www.uni7.edu.br/) college.
 
 ### 💻 My main programming languages are <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> and <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">. However, I am always eager to learn new things!
@@ -40,7 +40,6 @@
   <div style="display: inline_block">
     <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />
     <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" />
-    <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
     <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" />
   </div><br>
 
