@@ -36,9 +36,8 @@
     <img alt="gitlab" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
   </div><br>
 
-  ### At the moment I am interested in learning:
+  ### At the moment I am learning:
   <div style="display: inline_block">
-    <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />
     <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" />
     <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" />
   </div><br>
