@@ -5,7 +5,7 @@
 
 ## My name is Nicolas Josino, and I'm a software engineer based in Brazil
 
-### 💼 Currently, I am working as a software developer at [Instituto Atlântico](https://www.atlantico.com.br/en/?en=1), an innovation company from Fortaleza, CE. I work mostly as a front-end engineer, developing micro front-ends with Angular.
+### 💼 Currently, I am working as a software engineer at [Instituto Atlântico](https://www.atlantico.com.br/en/?en=1), an innovation company from Fortaleza, CE. I work mostly as a front-end engineer, developing micro front-ends with Angular.
 ### 📘 I am also an Information Systems student at [Uni7](https://www.uni7.edu.br/) and have a background in the Computer Science course from the [Ceara State University](https://www.uece.br/).
 
 ### 💻 I am eager to learn more about every step of software development, from both back-end and front-end, as well as CI/CD and UX/UI design, and hope to acquire more knowledge of such areas every day!
