@@ -40,15 +40,6 @@
     <img alt="gitlab" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" height="30" width="40"/>
   </div>  
 
-  ##
-
-  <div align="center">
-  <a href="https://github.com/nicolasjosino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasjosino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjosino&layout=compact&langs_count=7&theme=tokyonight"/>
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasjosino&hide_border=false&theme=tokyonight&show_icons=true"/>
-</div>
-
 <div>
   <h3><strong>Let's connect!</strong></h3>
   <a href="https://www.linkedin.com/in/nicolasjosino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
