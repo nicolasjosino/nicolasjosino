@@ -21,7 +21,9 @@
     <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </div>
 
-  ### On the back-end:
+  ##
+
+  ### My back-end stack:
   
   <div style="display: inline_block">
     <img align="center" alt="spring-boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
