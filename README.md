@@ -7,7 +7,7 @@
 
 ## About me:
 
-### I'm a Software developer with over 6 years of experience in different projects and languages;
+### I'm a Developer with over 6 years of experience in different projects and technologies;
 ### I've worked on enterprise applications, microservices, and in full stack web apps;
 ### My main achievements include developing a full stack web application for monitoring electrical assets, designing and building RESTful APIs and converting SPA applications to the MFE architecture.
 ### I'm always eager to learn more, to experiment with new and exciting technologies, and become a superior software engineer and professional.
